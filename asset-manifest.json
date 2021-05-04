@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/tebengan/static/css/main.38a01401.chunk.css",
-    "main.js": "/tebengan/static/js/main.d813ef6b.chunk.js",
-    "main.js.map": "/tebengan/static/js/main.d813ef6b.chunk.js.map",
+    "main.css": "/tebengan/static/css/main.5e74c3bc.chunk.css",
+    "main.js": "/tebengan/static/js/main.aa37dcd1.chunk.js",
+    "main.js.map": "/tebengan/static/js/main.aa37dcd1.chunk.js.map",
     "runtime-main.js": "/tebengan/static/js/runtime-main.cacdc5f0.js",
     "runtime-main.js.map": "/tebengan/static/js/runtime-main.cacdc5f0.js.map",
     "static/js/2.8cf3608a.chunk.js": "/tebengan/static/js/2.8cf3608a.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.620b518c.chunk.js": "/tebengan/static/js/3.620b518c.chunk.js",
     "static/js/3.620b518c.chunk.js.map": "/tebengan/static/js/3.620b518c.chunk.js.map",
     "index.html": "/tebengan/index.html",
-    "static/css/main.38a01401.chunk.css.map": "/tebengan/static/css/main.38a01401.chunk.css.map",
+    "static/css/main.5e74c3bc.chunk.css.map": "/tebengan/static/css/main.5e74c3bc.chunk.css.map",
     "static/js/2.8cf3608a.chunk.js.LICENSE.txt": "/tebengan/static/js/2.8cf3608a.chunk.js.LICENSE.txt",
     "static/media/avatar.5d747b37.png": "/tebengan/static/media/avatar.5d747b37.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cacdc5f0.js",
     "static/js/2.8cf3608a.chunk.js",
-    "static/css/main.38a01401.chunk.css",
-    "static/js/main.d813ef6b.chunk.js"
+    "static/css/main.5e74c3bc.chunk.css",
+    "static/js/main.aa37dcd1.chunk.js"
   ]
 }
