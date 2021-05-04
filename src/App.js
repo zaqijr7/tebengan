@@ -6,7 +6,7 @@ import avatar from './assets/images/avatar.png'
 
 function App() {
   return (
-    <div className="parent-wrapper padding-sm-y-3 d-sm-flex justify-sm-content-center items-md-center">
+    <div className="parent-wrapper padding-sm-y-3 padding-md-y-3 d-sm-flex justify-sm-content-center d-md-flex align-md-items-center ">
       <div className="card padding-sm-b-3 vw-sm-100">
         <div className="row d-sm-none">
           <div className="col-md-6 items-md-center flex-column padding-3">

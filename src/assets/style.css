@@ -1,9 +1,6 @@
 body {
     margin: 0px;
     padding: 0px;
-}
-
-.parent-wrapper {
     background-image:linear-gradient(rgba(0, 254, 208, 1), rgba(102, 216, 120, 1));
     background-size: cover;
     background-position: center;
@@ -69,6 +66,10 @@ body {
     background-color: white
 }
 
+.overflow-auto {
+    overflow: auto;
+}
+
 
 /* for mobile */
 @media screen and (min-width: 0px) and (max-width: 480px) {
@@ -132,7 +133,10 @@ body {
     .card {
         width: 90%;
         border-radius: 25px;
-
+        margin: auto;
+    }
+    .vh-md-100 {
+        height: 100%;
     }
     .col-md-6 {
         width: 50%;
@@ -171,6 +175,7 @@ body {
     }
     .parent-wrapper {
         height: 100vh;
+        box-sizing: border-box;
     }
     .d-md-none{
         display: none;
@@ -180,19 +185,22 @@ body {
         justify-content: center;
         align-items: center;
     }
+    .padding-md-y-3 {
+        padding: 30px;
+    }
+    .d-md-flex {
+        display: flex;
+    }
+    .justify-md-content-center {
+        justify-content: center;
+    }
+    .align-md-items-center {
+        align-items: center;
+    }
 }
 
 /* for desktop */
 @media screen and (min-width: 769px) {
-    .parent-wrapper {
-        height: 100vh;
-    }
-    .card {
-        width: 90%;
-        height: 80%;
-        border-radius: 25px;
-    }
-
     .jumbotron {
         font-size: 70px;
         font-weight: bold;
