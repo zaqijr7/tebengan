@@ -48,7 +48,7 @@ function App() {
                 line in section 1.10.32.
               </span>
             </div>
-          </div>
+          </div> 
         </div>
       </div>
     </div>
